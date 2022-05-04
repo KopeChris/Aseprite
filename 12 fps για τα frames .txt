@@ -1,0 +1,5 @@
+12 fps ειναι  5 φορες λιγοτερο 
+δηλαδη επι  0.2
+
+make it 320x180 and scale it times 6 for 1920x1080
+gba (240x160) size 
